@@ -7,5 +7,19 @@
   ],
   "profile": {
     "name": "typicode"
-  }
+  },
+  "users":[
+  {
+  "email":"ed@involys.com",
+  "password": "nada"
+   },
+{
+  "email":"hed@involys.com",
+  "password": "nada"
+   },
+{
+  "email":"zed@involys.com",
+  "password": "nada"
+   }
+  ]
 }
