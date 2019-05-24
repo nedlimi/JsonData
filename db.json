@@ -2,7 +2,26 @@
   "posts": [
     {
       "id": 1,
-      "title": "hello"
+      "idTheme":1,
+      "title": "hello",
+      "corps": "fgbkfssagélknvdfnvljgvssdfhOEGHOVMMVIS"
+    },
+    {
+      "id": 2,
+      "idTheme":1,
+      "title": "hello",
+      "corps": "fgbkfssagélknvdfnvljgvssdfhOEGHOVMMVIS"
+    },
+    {
+      "id": 3,
+      "idTheme":2,
+      "title": "bye",
+      "corps": "fgbkfssagélknvdfnvljgvssdfhOEGHOVMMVIS"
+    },{
+      "id": 4,
+      "idTheme":2,
+      "title": "BYE",
+      "corps": "fgbkfssagélknvdfnvljgvssdfhOEGHOVMMVIS"
     }
   ],
   "profile": {
@@ -21,5 +40,19 @@
   "email":"zed@involys.com",
   "password": "nada"
    }
+  ],
+  "ThemeS":[
+    {
+      "idTheme":1,
+      "name":"Annonce"
+    },
+    {
+      "idTheme":1,
+      "name":"Actualité"
+    },
+    {
+      "idTheme":1,
+      "name":"Evenement"
+    }
   ]
 }
