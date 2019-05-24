@@ -30,15 +30,18 @@
   "users":[
   {
   "email":"ed@involys.com",
-  "password": "nada"
+  "password": "nada",
+    "statut": "admin"
    },
 {
   "email":"hed@involys.com",
-  "password": "nada"
+  "password": "nada",
+  "statut": "normal"
    },
 {
   "email":"zed@involys.com",
-  "password": "nada"
+  "password": "nada",
+  "statut": "normal"
    }
   ],
   "Themes":[
