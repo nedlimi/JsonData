@@ -41,18 +41,26 @@
   "password": "nada"
    }
   ],
-  "ThemeS":[
+  "Themes":[
     {
       "idTheme":1,
       "name":"Annonce"
     },
     {
-      "idTheme":1,
+      "idTheme":2,
       "name":"Actualité"
     },
     {
       "idTheme":1,
       "name":"Evenement"
+    }
+  ],
+  "Inscription":[
+    {
+      "nom": "test",
+      "prenom" : "testprenom",
+      "matricule" : 1234,
+      "email" : "test@test.com"
     }
   ]
 }
