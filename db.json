@@ -46,16 +46,16 @@
   ],
   "Themes":[
     {
-      "idTheme":1,
-      "name":"Annonce"
+      "ThemeID":1,
+      "Nom":"Annonce"
     },
     {
-      "idTheme":2,
-      "name":"Actualité"
+      "ThemeID":2,
+      "Nom":"Actualité"
     },
     {
-      "idTheme":1,
-      "name":"Evenement"
+      "ThemeID":1,
+      "Nom":"Evenement"
     }
   ],
   "Inscription":[
